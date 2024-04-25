@@ -241,7 +241,7 @@ header_section {
 }
 
 .bg-light {
-    background-image: url(images/background-image.png);
+    background-image: url(../images/background-image.png);
 }
 .navbar {
     padding: .5rem 0px;
